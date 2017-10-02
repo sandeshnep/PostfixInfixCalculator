@@ -1,0 +1,12 @@
+Author:Sandesh Paudel
+Email: spaudel@u.rochester.edu
+no collaboration whatsoever
+
+How to Run: Simply run the Main Class and include infix_expr_short.txt , my_eval.txt , and postfix.txt.
+Please make sure these three files are there, otherwise the program wont work. 
+
+OUTPUT:
+Welcome to Infix calculator.
+Input file is infix_expr_short.txt
+Output file is my_eval.txt
+Additionally, a postfix.txt file is created containing postfix expressions
